@@ -4,7 +4,8 @@
   "description": "This is a application which resolves any calendar conflicts of user",
   "main": "index.js",
   "scripts": {
-    "test": "NA"
+    "test": "NA",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
