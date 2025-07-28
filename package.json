@@ -1,0 +1,23 @@
+{
+  "name": "calendar-conflict-resolver",
+  "version": "1.0.0",
+  "description": "This is a application which resolves any calendar conflicts of user",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeeshkumard/Calendar-Conflicts-Resolver.git"
+  },
+  "keywords": [
+    "Calendar",
+    "Conflicts"
+  ],
+  "author": "Pradeesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeeshkumard/Calendar-Conflicts-Resolver/issues"
+  },
+  "homepage": "https://github.com/Pradeeshkumard/Calendar-Conflicts-Resolver#readme"
+}
